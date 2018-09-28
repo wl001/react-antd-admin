@@ -39,7 +39,7 @@
 │   ├── router.js                               // 路由配置
 ```
 ### 项目运行
- ![image](https://github.com/wl001/reacr-antd-admin/blob/master/public/react-antd-admin.gif)
+ ![image](https://github.com/wl001/react-antd-admin/public/react-antd-admin.gif)
 ### 项目笔记
 - https://wl001.github.io/2018/06/13/react_demo/
 ### 项目运行 npm/yarn
